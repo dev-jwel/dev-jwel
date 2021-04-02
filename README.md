@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @dev-jwel
+- 👀 I’m interested in C/C++, rust for embedded programming
