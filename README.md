@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @dev-jwel
-- 👀 I’m interested in C/C++, rust for embedded programming
+- 👀 I’m interested in C/C++, rust for embedded programming and also interested in pytorch for deep learning.
